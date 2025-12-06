@@ -22,6 +22,11 @@ Perfect for:
 - Dark VS Code-style theme
 - Back / Forward / Reload + URL bar only — no bloat
 - 100 % in-memory profile (true private browsing every time)
+Images:
+
+<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/cf42e76b-e3f0-4e03-8c1c-2f43777bb6cf" />
+
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/ff3909de-3c9d-4364-a2ea-7fbf38ffac61" />
 
 ### Requirements
 ```bash
